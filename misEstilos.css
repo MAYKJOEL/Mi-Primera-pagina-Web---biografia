@@ -1,6 +1,7 @@
 h1{
     font-family: 'Courier New', Courier, monospace;
     color: red;
+    text-align: center;
 }
 
 p{
@@ -8,4 +9,5 @@ p{
     color: blue;
     border: 1px;
     border-style: solid;
+    text-align: center;
 }
