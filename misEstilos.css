@@ -2,10 +2,14 @@ body{
     background-color: bisque;
 }
 
-
+#information{
+    text-align: center;
+}
+h1:hover{
+    color: red;
+}
 h1{
     font-family: 'Courier New', Courier, monospace;
-    color: red;
     text-align: center;
 }
 
@@ -13,18 +17,25 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
     border: 2px;
-    border-style: solid;
-    text-align: left;
-    
+    text-align: justify; 
 }
 
 .normal{
     background-color: khaki;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
 }
 
 .restl{
     color: green;
     font-weight: bold;
 }
+
+.principale{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* .principale::first-line{
+    background-color: lightgray;
+} */
