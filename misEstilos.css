@@ -7,7 +7,18 @@ h1{
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
-    border: 1px;
+    border: 2px;
     border-style: solid;
     text-align: center;
+}
+
+.normal{
+    background-color: khaki;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.restl{
+    color: green;
+    font-weight: bold;
 }
